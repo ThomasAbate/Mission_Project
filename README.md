@@ -20,3 +20,5 @@ Unreliable completion of the Kill quest due to errors in the notifier.
 
 
 As such, the video as been shot in the editor and reflects intended gameplay.
+
+Video link : https://drive.google.com/file/d/1nDi5mpiU4RX4RydPkP9ke9srHbkaXRRM/view?usp=sharing
