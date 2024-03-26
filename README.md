@@ -12,7 +12,7 @@ Left click / Right trigger to punch
 
 
 
-No release available, game does not compile due to errors in the event notifier system.
+No release available, game does not compile due to errors in the event notifier system. Update 26/03 Was able to compile brocken version
 
 Only possible to have one listener per event type, making fetch quests impossible, due to errors in the notifier.
 
